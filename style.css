@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(12, 51, 12);
+}
+h1{
+    background-color: rgb(78, 6, 6);
+    text-align: center;
+    color: white;
+    font-size: 145%;
+    width: 12%;
+    margin: 0 auto;
+    padding: 12px;
+    
+    
+}
+.bosh{
+    background-color: black;
+    width: 31%;
+    padding:10px;
+    border:5px solid red;
+    margin:  auto;
+    margin-top: 18px;
+    height: 256px;
+    }
+.bir{
+    background-color: rgb(107, 219, 182);
+     padding: 10px;
+     font-size:90%;
+     margin-bottom: 5px;
+  
+     
+}
+.ikki{
+    background-color: rgb(107, 219, 182);
+    font-size: 90%;
+    padding: 10px;
+    margin-top: 20px;
+   
+     
+    }
